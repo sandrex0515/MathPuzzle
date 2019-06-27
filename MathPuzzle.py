@@ -62,8 +62,6 @@ class Puzzle:
 
 print("------------------------------------------------ Input the answer per row -----------------------------------------------------------")
 x = input("First Row Answer: ")
-
-
 y = input("Second Row Answer: ")
 z = input("Third Row Answer: ")
 
